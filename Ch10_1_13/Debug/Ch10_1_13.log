@@ -1,0 +1,4 @@
+﻿  Ch10_1_13.cpp
+C:\Users\zqzqz\source\Repos\Ch10_1_13\Ch10_1_13.cpp(34,88): warning C4244: +=: преобразование "double" в "size_t", возможна потеря данных
+C:\Users\zqzqz\source\Repos\Ch10_1_13\Ch10_1_13.cpp(36,19): warning C4018: <: несоответствие типов со знаком и без знака
+  Ch10_1_13.vcxproj -> C:\Users\zqzqz\source\Repos\Ch10_1_13\Debug\Ch10_1_13.exe
